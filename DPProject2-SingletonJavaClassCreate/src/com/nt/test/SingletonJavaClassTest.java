@@ -13,6 +13,6 @@ public class SingletonJavaClassTest {
         System.out.println("(p1==p2)?"+(p1==p2));
         System.out.println(p1);
         System.out.println(p2);
-        System.out.println(p1.hashCode()+"    "+p2.hashCode());
+       // System.out.println(p1.hashCode()+"    "+p2.hashCode());
 	}//main method
 }//class
