@@ -14,6 +14,5 @@ public class SingletonJavaClassTest {
         System.out.println(p1);
         System.out.println(p2);
        // System.out.println(p1.hashCode()+"    "+p2.hashCode());
-//    fffffffffffffff
 	}//main method
 }//class
